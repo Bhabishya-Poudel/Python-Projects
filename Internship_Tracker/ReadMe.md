@@ -10,7 +10,7 @@ iv)  Users can export or use that file anywhere by accessing it from their stora
 
 
 Status:
-🚧 Work in progress. Current version covers fetch → interactive term filter → export. Planned next steps (Future Development):
+Work in progress. Current version covers fetch → interactive term filter → export. Planned next steps (Future Development):
 
 - Letting users choose which internship category/field to filter for (software, hardware, economics, etc.), not just the term (done)
 - A dropdown/checkbox-style filter UI (web page, or a richer terminal menu) instead of typing comma-separated terms by hand
@@ -18,4 +18,8 @@ Status:
 - Auto-drafting/pre-filling applications for the user to review and submit themselves (Will be difficult I know, but I've kept it open for changes to the public so that anybody can add to it.)
 
 Next step:
-Build a interactive interface with it. 
+Polish the overview of the job, so users can see what the internship is about.
+Add filters for user to select from, with a count next to it. 
+maybe change the source of the internship list? from CS/CE/EE to whole other fields?
+3 4 5 pages interactive sites. 
+
