@@ -12,7 +12,10 @@ iv)  Users can export or use that file anywhere by accessing it from their stora
 Status:
 🚧 Work in progress. Current version covers fetch → interactive term filter → export. Planned next steps (Future Development):
 
-- Letting users choose which internship category/field to filter for (software, hardware, economics, etc.), not just the term
+- Letting users choose which internship category/field to filter for (software, hardware, economics, etc.), not just the term (done)
 - A dropdown/checkbox-style filter UI (web page, or a richer terminal menu) instead of typing comma-separated terms by hand
 - A proper interface instead of running everything from the terminal
 - Auto-drafting/pre-filling applications for the user to review and submit themselves (Will be difficult I know, but I've kept it open for changes to the public so that anybody can add to it.)
+
+Next step:
+Build a interactive interface with it. 
